@@ -1,0 +1,148 @@
+{
+  "project_info": {
+    "project_number": "913639662575",
+    "firebase_url": "https://lungsurin-222407.firebaseio.com",
+    "project_id": "lungsurin-222407",
+    "storage_bucket": "lungsurin-222407.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913639662575:android:243af6ef85844bb4",
+        "android_client_info": {
+          "package_name": "com.dngwjy.algocargo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "913639662575-6jfklqmmd8m4k005sev8hr3mg9pa7uje.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWgEa0ZAwCCimozutenLWCLm84A6sf3AI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913639662575:android:64267434ba37b56e",
+        "android_client_info": {
+          "package_name": "com.dngwjy.cobaface"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "913639662575-6jfklqmmd8m4k005sev8hr3mg9pa7uje.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWgEa0ZAwCCimozutenLWCLm84A6sf3AI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913639662575:android:a280c52d0eb61fc0",
+        "android_client_info": {
+          "package_name": "com.dngwjy.lungsurin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "913639662575-lb48b8b39e0pgfcuur7rj96f7b32ta7n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dngwjy.lungsurin",
+            "certificate_hash": "2f7b0cf80f90c226a14967e35a6b28a034ca6bd2"
+          }
+        },
+        {
+          "client_id": "913639662575-6jfklqmmd8m4k005sev8hr3mg9pa7uje.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWgEa0ZAwCCimozutenLWCLm84A6sf3AI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "913639662575-6jfklqmmd8m4k005sev8hr3mg9pa7uje.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913639662575:android:d7e81c0007793e34",
+        "android_client_info": {
+          "package_name": "com.google.firebase.codelab.image_labeling"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "913639662575-6jfklqmmd8m4k005sev8hr3mg9pa7uje.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWgEa0ZAwCCimozutenLWCLm84A6sf3AI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
