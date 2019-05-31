@@ -47,7 +47,7 @@ class MainCameraActivity : BaseCameraActivity() {
         textView3.text= intent.getStringExtra("soal")
         mass= intent.getStringExtra("mass")
         questType=intent.getStringExtra("type")
-        adapter= QrCodeAdapter(data){
+        adapter= QrCodeAdapter(data,mass){
             val alert=AlertDialog.Builder(this)
             alert.setTitle("Konfirmasi")
             alert.setMessage("Yakin Hapus Step Tersebut?")
